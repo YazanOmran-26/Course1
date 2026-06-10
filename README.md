@@ -20,7 +20,7 @@ A collection of Python programs including searching algorithms, divisor calculat
 - The computer randomly guesses.
 - The program determines the winner based on whether the guess matches the user's choice.
 
-### 🎮 Odd or Even Number Game
+### Odd or Even Number Game
 - The user chooses **odd** or **even** and selects a number.
 - The computer generates a random number.
 - The sum of both numbers determines the winner.
