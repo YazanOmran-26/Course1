@@ -4,7 +4,7 @@ A collection of Python programs including searching algorithms, divisor calculat
 
 ## Features
 
-### 🔍 Binary Search Algorithm
+### Binary Search Algorithm
 - Searches for a number within a sorted list.
 - Uses the efficient Binary Search method.
 - Returns the index of the searched number if found.
