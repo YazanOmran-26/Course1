@@ -45,14 +45,14 @@ Run the Python file:
 python "Course 1.py"
 ```
 
-The program will guide you through several activities:
+The program 4 seperate codes:
 
 1. Binary Search
 2. Divisor Finder
 3. Odd or Even Guessing Game
 4. Odd or Even Number Game
 
-Follow the on-screen prompts and enter your inputs when requested.
+### Follow the on-screen prompts and enter your inputs when requested.
 
 ## Project Structure
 
