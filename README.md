@@ -54,13 +54,7 @@ The program 4 seperate codes:
 
 ### Follow the on-screen prompts and enter your inputs when requested.
 
-## Project Structure
 
-```text
-.
-├── Course 1.py
-└── README.md
-```
 
 ### File Descriptions
 
