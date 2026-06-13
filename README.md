@@ -1,8 +1,8 @@
-# Python Algorithms and Games
+# Python Algorithm and Game
 
-A collection of Python programs including searching algorithms, divisor calculations, and odd/even games.
+A collection of Python programs including searching algorithms, divisor algorithm, and odd/even games.
 
-## Features
+### Features
 
 ### Binary Search Algorithm
 - Searches for a number within a sorted list.
