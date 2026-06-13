@@ -27,9 +27,6 @@ A collection of Python programs including searching algorithms, divisor algorith
 
 ## Installation
 
-### Prerequisites
-- Python 3.x installed on your computer
-
 ### Clone the Repository
 
 ```bash
