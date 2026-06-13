@@ -92,5 +92,5 @@ the divisors of 12 are: [1, 2, 3, 4, 6, 12]
 
 ## Author
 
-Created as a Python intermediate for a Course HomeWork
+Created as a Python intermediate for a Course HomeWork 
 
